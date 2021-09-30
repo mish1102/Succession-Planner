@@ -13,10 +13,7 @@ def main():
 
     with col1:
         st.write("")
-
-    # with col2:
-    #     st.sidebar.image('Compunnel-Digital-Logo.png',width=125)
-
+        
     with col3:
         st.write("")
 
